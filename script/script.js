@@ -5,7 +5,6 @@
     let botaoCampo = document.querySelector("#btn-campo");
 
     let texto = document.querySelector("#texto");
-    //textoCampo = textoCampo.toLowerCase();
     let btn = document.querySelector("#btn-id");
     btn.addEventListener("click", () => {
         window.location.reload();
@@ -51,12 +50,6 @@
         }
     })
 
-
-
-    //let letra;
-    // do {
-    //     letra = prompt("Escreva uma letra.");
-    // } while(!letra)
 
 
     
